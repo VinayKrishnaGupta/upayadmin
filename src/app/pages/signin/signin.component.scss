@@ -1,0 +1,52 @@
+.background-login-img {
+    background: url('../../../assets/images/login-backgroud-img.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height:100vh;
+}
+
+.background-login-color {
+    background-color:  #BDBDBD;
+}
+
+.form-feild-width {
+    width: 100%;
+    margin-top: 5%;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+    color: #7B1FA2;
+    padding-top: 3%;
+}
+
+.sub-title {
+    font-weight: bold;
+    text-align: center;
+    color: #FF5722;
+    padding-top: 3%;
+}
+.signin-card {
+    margin-top: 21%;
+}
+
+.logo-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: auto;
+}
+.signin-button {
+    color: #ffffff;
+    font-weight: bold;
+    float: right;
+}
+.signup-button {
+    font-weight: bold;
+    float: right;
+}
